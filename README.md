@@ -1,4 +1,4 @@
-### Hi there 👋
+### José Domingos Cassua Ndonge 👋
 
 <!--
 **josedomingos919/josedomingos919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
