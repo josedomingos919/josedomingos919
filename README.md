@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=josedomingos919.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/josedomingos919?style=social)
-<img src="https://github.com/tuliocll/tuliocll/blob/main/assets/animation.gif?raw=true" data-canonical-src="https://github.com/tuliocll/tuliocll/blob/main/assets/animation.gif?raw=true" width="100%" height="20%" />
+<img src="https://scontent.flad5-1.fna.fbcdn.net/v/t1.6435-9/128802850_2816478225261401_6573052396806417797_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=e3f864&_nc_eui2=AeElcqsT1W-EyZ7LV0rUOBImzB4CfZa0FPPMHgJ9lrQU88H5e7v4Pfv9TYwNGJUiG25zLVMsMwXVOqryLb0SIANy&_nc_ohc=gQwiKACOiugAX87oFKt&_nc_ht=scontent.flad5-1.fna&oh=3ef2b3f3856f9e0344bbd38870cf26fd&oe=60EE297F" data-canonical-src="https://github.com/tuliocll/tuliocll/blob/main/assets/animation.gif?raw=true" width="100%" height="20%" />
 <p align='center'>
 <a href="https://tuliocalil.blogspot.com/"><img height="30" src="https://logodownload.org/wp-content/uploads/2018/02/blogger-logo-icon.png"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/tuliocalil"><img height="30" src="https://cdn4.iconfinder.com/data/icons/miu-square-flat-social/60/youtube-square-social-media-512.png"></a>&nbsp;&nbsp;
@@ -13,9 +13,9 @@
 </p>
 
 ## :smiley: About me
-Olá, meu nome é Tulio Calil, sou do interior da Bahia, sou desenvolvedor Javascript/Typescript e apaixonado por Elixir.
-Atualmente trabalho com Reactjs, Nodejs, Express, Adonis e React Native. Produzo conteudo sobre as mesmas techs, tanto no meu canal do Youtube quanto no meu Blog.
-Quando não estou programando eu gosto de pedalar, ler, estar com meus amigos e dar muita risada.
+Olá, meu nome é José, sou de Angola Luanda, sou desenvolvedor Javascript/Typescript e apaixonado por Php.
+Atualmente trabalho com Reactjs, Nodejs, Express e React Native.
+Quando não estou programando eu gosto de ouvir músicas, ler, estar com meus amigos e dar muita risada.
 ## :rocket: Programming Languages and tools
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
@@ -31,4 +31,5 @@ Quando não estou programando eu gosto de pedalar, ler, estar com meus amigos e 
 </p>
 ## 🎯 Site
 
-## ![APRPBA](http://aprpba.com/)
+# https://aprpba.com/
+# https://kudsapp.netlify.app/
