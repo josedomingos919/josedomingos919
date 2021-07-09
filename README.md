@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=josedomingos919.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/josedomingos919?style=social)
-<img src="https://scontent.flad5-1.fna.fbcdn.net/v/t1.6435-9/128802850_2816478225261401_6573052396806417797_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=e3f864&_nc_eui2=AeElcqsT1W-EyZ7LV0rUOBImzB4CfZa0FPPMHgJ9lrQU88H5e7v4Pfv9TYwNGJUiG25zLVMsMwXVOqryLb0SIANy&_nc_ohc=gQwiKACOiugAX87oFKt&_nc_ht=scontent.flad5-1.fna&oh=3ef2b3f3856f9e0344bbd38870cf26fd&oe=60EE297F" data-canonical-src="https://github.com/tuliocll/tuliocll/blob/main/assets/animation.gif?raw=true" width="100%" height="20%" />
+<img src="https://scontent.flad5-1.fna.fbcdn.net/v/t1.6435-9/195439782_2946717438904145_7095951674746767650_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=174925&_nc_eui2=AeFcqMsnfvScyGWwEBLuPfI0PYj3y64GkFE9iPfLrgaQUegb9zHKWF2xRS_a00n8IXZ9FuqPcN_HFtFoeZOLvgKN&_nc_ohc=ygSWh7f89igAX-VT3qh&tn=-M8OgMseNFnecV2e&_nc_ht=scontent.flad5-1.fna&oh=e4470f8322971cc50a5d92eb0b4a26f0&oe=60EE1875" width="100%" height="20%" />
 <p align='center'>
 <a href="https://tuliocalil.blogspot.com/"><img height="30" src="https://logodownload.org/wp-content/uploads/2018/02/blogger-logo-icon.png"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/tuliocalil"><img height="30" src="https://cdn4.iconfinder.com/data/icons/miu-square-flat-social/60/youtube-square-social-media-512.png"></a>&nbsp;&nbsp;
