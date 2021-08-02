@@ -2,7 +2,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=josedomingos919.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/josedomingos919?style=social)
-<img src="https://scontent.flad5-1.fna.fbcdn.net/v/t1.6435-9/195439782_2946717438904145_7095951674746767650_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=174925&_nc_eui2=AeFcqMsnfvScyGWwEBLuPfI0PYj3y64GkFE9iPfLrgaQUegb9zHKWF2xRS_a00n8IXZ9FuqPcN_HFtFoeZOLvgKN&_nc_ohc=ygSWh7f89igAX-VT3qh&tn=-M8OgMseNFnecV2e&_nc_ht=scontent.flad5-1.fna&oh=e4470f8322971cc50a5d92eb0b4a26f0&oe=60EE1875" width="100%" height="20%" />
+
+## `Once dev, dev forever`
+
 <p align='center'>
 &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jos%C3%A9-domingos-cassua-n-donge-2197221b8/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
