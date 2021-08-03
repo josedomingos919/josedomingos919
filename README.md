@@ -32,6 +32,7 @@ Quando não estou programando eu gosto de ouvir músicas, ler, estar com meus am
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" height="25"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/> 
 <img src="https://www.appnetos.com/out/img/www.appnetos.com/twig.png" height="25"/>
+<img src="https://davidwalsh.name/demo/graphql-intro/graphql.png" height="25"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 <img src="https://knexjs.org/assets/images/knex.png" height="25"/>
 
