@@ -35,7 +35,7 @@ Quando não estou programando eu gosto de ouvir músicas, ler, estar com meus am
 <img src="https://lieno.com.br/site/wp-content/uploads/2020/04/graphql.png" height="25"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 <img src="https://knexjs.org/assets/images/knex.png" height="25"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png" height="25"/>
+<img src="https://www.iped.com.br/img/cursos/56207.jpg" height="25"/>
 
 </p>
 
