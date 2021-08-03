@@ -10,7 +10,7 @@
 <p align='center'>
 &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jos%C3%A9-domingos-cassua-n-donge-2197221b8/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-  <a href="tel:+6494461709"><img height="30" src="https://image.similarpng.com/very-thumbnail/2020/05/WhatsApp-icon-PNG.png"></a>&nbsp;&nbsp;
+  <a href="tel:+244944666640"><img height="30" src="https://image.similarpng.com/very-thumbnail/2020/05/WhatsApp-icon-PNG.png"></a>&nbsp;&nbsp;
 </p>
 
 ## :smiley: About me
