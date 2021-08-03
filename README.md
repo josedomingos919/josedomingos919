@@ -1,4 +1,4 @@
-### José Domingos Cassua Ndonge 👋
+### José Domingos Cassua N'donge 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=josedomingos919.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/josedomingos919?style=social)
