@@ -25,7 +25,7 @@ Quando não estou programando eu gosto de ouvir músicas, ler, estar com meus am
 <img src="https://dbdb.io/media/logos/realm.png" height="25"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
   
-<img src="https://www.efeergun.com/wp-content/uploads/2019/12/opencart-nedir-kurulumu-nasil-yapilir.png" height="25"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/OpenCart_logo.svg/1024px-OpenCart_logo.svg.png" height="25"/>
   
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height="25"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" height="25" />
