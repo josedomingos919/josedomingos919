@@ -3,11 +3,17 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=josedomingos919.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/josedomingos919?style=social)
 
+## :smiley: About me
+Olá, meu nome é José, sou de Angola Luanda, sou desenvolvedor Javascript/Typescript e apaixonado por Php.
+Atualmente trabalho com Reactjs, Nodejs, Express e React Native.
+Quando não estou programando eu gosto de ouvir músicas, ler, estar com meus amigos e dar muita risada.
+## :rocket: Programming Languages and tools
+
 <a href = "mailto:josedomingos919@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jos%C3%A9-domingos-c-n-donge-2197221b8/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
 <a href="tel:+244944666640"><img target="_blank" height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 
-## :`Status`
+## `Status`
 
 <div>
   <a href="https://github.com/andrei-brando">
@@ -24,14 +30,8 @@
   <img align="center" alt="Andrei-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andrei-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
-## :smiley: About me
-Olá, meu nome é José, sou de Angola Luanda, sou desenvolvedor Javascript/Typescript e apaixonado por Php.
-Atualmente trabalho com Reactjs, Nodejs, Express e React Native.
-Quando não estou programando eu gosto de ouvir músicas, ler, estar com meus amigos e dar muita risada.
-## :rocket: Programming Languages and tools
-
-<p align="center">
+	
+<p align="left">
   
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
 <img src="https://dbdb.io/media/logos/realm.png" height="25"/>
@@ -45,7 +45,6 @@ Quando não estou programando eu gosto de ouvir músicas, ler, estar com meus am
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
-  
   
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25"/>
   
@@ -67,7 +66,7 @@ Quando não estou programando eu gosto de ouvir músicas, ler, estar com meus am
 
 </p>
 
-## 🎯 Site
+## 🎯 Sites
 
  - https://aprpba.com/
  - https://kudsapp.netlify.app/
