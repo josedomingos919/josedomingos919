@@ -7,13 +7,14 @@
 Olá, meu nome é José, sou de Angola Luanda, sou desenvolvedor Javascript/Typescript e apaixonado por Php.
 Atualmente trabalho com Reactjs, Nodejs, Express e React Native.
 Quando não estou programando eu gosto de ouvir músicas, ler, estar com meus amigos e dar muita risada.
-
-<a href = "mailto:josedomingos919@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jos%C3%A9-domingos-c-n-donge-2197221b8/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
-<a href="tel:+244944666640"><img target="_blank" height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<p>
+<a href ="mailto:josedomingos919@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+<a href="https://www.linkedin.com/in/jos%C3%A9-domingos-c-n-donge-2197221b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a> 
+<a href="tel:+244944666640"><img target="_blank" height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ## :Analytics: Status
-
+	
 <div>
   <a href="https://github.com/andrei-brando">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josedomingos919&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
