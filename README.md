@@ -13,7 +13,7 @@ Quando não estou programando eu gosto de ouvir músicas, ler, estar com meus am
 <a href="tel:+244944666640"><img target="_blank" height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-## :Analytics: Status
+## 📊 Status
 	
 <div>
   <a href="https://github.com/andrei-brando">
