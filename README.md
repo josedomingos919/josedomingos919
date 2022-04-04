@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/josedomingos919?style=social)
 
 ## :smiley: About me
-Olá, meu nome é José, sou de Angola Luanda, sou desenvolvedor Javascript/Typescript e apaixonado por Php.
+Olá, meu nome é José, sou desenvolvedor Javascript/Typescript e apaixonado por Php.
 Atualmente trabalho com Reactjs, Nodejs, Express e React Native.
 Quando não estou programando eu gosto de ouvir músicas, ler, estar com meus amigos e dar muita risada.
 <p>
