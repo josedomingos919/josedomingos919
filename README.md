@@ -6,7 +6,7 @@
 ## :smiley: About me
 Olá, meu nome é José, sou desenvolvedor Javascript/Typescript e apaixonado por Php.
 Atualmente trabalho com Reactjs, Nodejs, Express, React Native e Laravel.
-Quando não estou programando eu gosto de ouvir músicas, ler, estar com meus amigos e dar muita risada.
+Quando não estou programando eu gosto pesquisar mais sobre conhecimentos na área de TI ver PodCast e UIclones.
 <p>
 <a href ="mailto:josedomingos919@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
 <a href="https://www.linkedin.com/in/jos%C3%A9-domingos-c-n-donge-2197221b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a> 
