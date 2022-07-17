@@ -5,7 +5,7 @@
 
 ## :smiley: About me
 Olá, meu nome é José, sou desenvolvedor Javascript/Typescript e apaixonado por Php.
-Atualmente trabalho com Reactjs, Nodejs, Express e React Native.
+Atualmente trabalho com Reactjs, Nodejs, Express, React Native e Laravel.
 Quando não estou programando eu gosto de ouvir músicas, ler, estar com meus amigos e dar muita risada.
 <p>
 <a href ="mailto:josedomingos919@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
